@@ -16,19 +16,20 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="left">
-  Hello, everyone! My name is Frank Oliveira, and I’m a passionate developer! 🚀<br><br>
-  I started coding when I was 16, but my interest in technology goes way back to my childhood. Since then, I've been diving deep into coding, solving bugs, and continuously learning.  
+  Hello, everyone! My name is Frank Oliveira, and I’m a passionate developer always looking to improve my skills and explore new market trends. 🚀<br><br>
+  My journey in technology started in my childhood, but I began coding seriously at 16. Since then, I've been deeply involved in development, solving bugs, and continuously learning. With a background in Computer Engineering and experience in project management, I combine technical expertise with strategic thinking to develop efficient and scalable solutions.  
   <br><br>
-  Currently, I’m working on my first major project, where I’m using Flutter for the front-end and PHP for the back-end. This experience has been challenging, but it has helped me grow as a developer, improving my problem-solving skills and ability to handle real-world projects.  
+  I have worked on both personal and academic projects, applying modern development practices to create high-performance, user-centered applications. Currently, I’m working on my first major independent project, using Flutter for the front-end and PHP for the back-end. This experience has been challenging, but it has strengthened my problem-solving skills and my ability to manage real-world projects effectively.  
   <br><br>
-  If you want to know more about me, feel free to connect through my social media! 😊
+  My goal is to keep evolving as a professional, taking on challenges that allow me to grow and make a positive impact through technology. I'm open to new opportunities and connections to share experiences and contribute to innovative solutions! If you want to know more about me, feel free to reach out through my social media! 😊  
 </p>
+
 
 ---
 
 ### 💻 What I Do:
-- 🔭 Working as a mobile developer  
-- 📚 Currently learning more about Dart, Flutter, and back-end development  
+- 🔭 Working as a full-stack developer  
+- 📚 Currently learning more about full stack development
 - ⚡ In my free time, I go to church and play guitar 🎸  
 
 ---
